@@ -104,7 +104,7 @@ const CreateAccount = () => {
             </div>
           </div>
 
-          <button onClick={() => navigate("/AccountSettings")} type="submit" className="btn btn-primary">
+          <button onClick={() => navigate("/AccountSettings")} className="btn btn-primary">
             Create Account
           </button>
         </form>

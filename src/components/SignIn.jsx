@@ -41,7 +41,7 @@ const SignIn = () => {
             />
           </div>
 
-          <button onClick={() => navigate("/AccountSettings")} type="submit" className="btn btn-login">
+          <button onClick={() => navigate("/AccountSettings")} className="btn btn-login">
             Login
           </button>
         </form>
