@@ -6,12 +6,9 @@ import badgeImg from "../images/Group1585.png";
 const AccountSettings = () => {
   return (
     <div className="account-settings-container">
-      {/* Header */}
       <div className="account-settings-header">
         <h1 className="account-settings-title">Account Settings</h1>
       </div>
-
-      {/* Content */}
       <div className="account-settings-content">
         <div className="profile-section">
           <div className="avatar-container">
